@@ -1,5 +1,3 @@
-# Tidal SRE take-home test
-
 ## Code challenge
 
 Write a small application in the language of your choice, including a brief description of how you approached the solution, any assumptions made, and how to build and run it. Choose one of the following:
