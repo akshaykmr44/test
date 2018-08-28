@@ -12,9 +12,9 @@ Optional: Set up a Docker Compose file that spins up the Java application, with 
 
 Steps to Run the file:
 
-Install dockeron the system and run the below command.
+Install dockeron the system and Put the jar into the same folder where the dockerfile is present.
 
-Put the jar into the same folder where the dockerfile is present.
+Then run the below command.
 
 Command to run the docker file
 docker build --file Dockerfile /path/of/the/folder/where/docker/file/is/present
