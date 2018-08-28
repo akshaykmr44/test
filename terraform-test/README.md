@@ -27,7 +27,7 @@ The following resources should be configured:
 * Allow all egress
 
 
-Completed:
+##Completed:
 
 Setup : To run this terrafrom you need to download the terraform https://www.terraform.io/downloads.html
 
@@ -41,7 +41,7 @@ cd terraform-provider-aws/
 ./terraform plan -out outputs.tf
 ./terraform apply outputs.tf
 
-Changes which needs to be done to run it successfully.
+##Changes which needs to be done to run it successfully.
 
 The SSL certificate has to provide as i have provided my certificate and run it successfully. Please put certificate path and then run it.
 
